@@ -1,10 +1,10 @@
 {
-  "name": "invite-contributors",
+  "name": "attendee-invite-to-collaborate",
   "version": "1.2.2",
   "description": "",
-  "author": "Erick Zhao <erick@hotmail.ca>",
+  "author": "Brian 'bdougie' Douglas <ilikerobot@gmail.com> (https://github.com/bdougie/attendee-invite-to-collaborate)",
   "license": "ISC",
-  "repository": "https://github.com/erickzhao/invite-contributors.git",
+  "repository": "https://github.com//attendee-invite-to-collaborate.git",
   "scripts": {
     "start": "probot run ./index.js",
     "test": "nyc mocha && standard",
